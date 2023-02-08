@@ -1,0 +1,13 @@
+
+.user-ui {
+    display: flex;
+    margin: 0 auto;
+    width: 500px;
+}
+.profile {
+    margin-right: 25px;
+}
+.count {
+    position: fixed;
+    right: 300px;
+}
